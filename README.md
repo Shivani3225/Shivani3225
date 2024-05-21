@@ -1,4 +1,4 @@
-(https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)
+[!masterhead](https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)
 
 <h1 align="center">Hi 👋, I'm Shivani Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
